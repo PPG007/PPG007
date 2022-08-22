@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=PPG007)
+
 <div>
     <a href="https://github.com/PPG007/PPG007.github.io.git">
         <img
