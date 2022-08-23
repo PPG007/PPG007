@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PPG007&theme=dark&hide_border=true&locale=zh)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
     <a href="https://github.com/PPG007/PPG007.github.io.git">
