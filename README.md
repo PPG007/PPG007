@@ -1,10 +1,10 @@
 # PPG007
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPG007&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=PPG007&count_private=true&show_icons=true&theme=algolia" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PPG007&theme=dark&hide_border=true&locale=zh)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PPG007&theme=dark&hide_border=true&locale=zh" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007" />
 
 <div>
     <a href="https://github.com/PPG007/PPG007.github.io.git">
