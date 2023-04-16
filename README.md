@@ -13,9 +13,6 @@
     <a href="https://github.com/PPG007/protoc-gen.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=protoc-gen&theme=algolia&show_owner=true" />
     </a>
-    <a href="https://github.com/qiniu/qmgo.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=qiniu&repo=qmgo&theme=algolia&show_owner=true" />
-    </a>
     <a href="https://github.com/PPG007/todo-reminder.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=todo-reminder&theme=algolia&show_owner=true" />
     </a>
