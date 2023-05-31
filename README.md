@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PPG007&count_private=true&show_icons=true&theme=algolia" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PPG007&theme=dark&hide_border=true&locale=zh" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=PPG007&theme=dark&hide_border=true&locale=zh" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPG007" />
 
