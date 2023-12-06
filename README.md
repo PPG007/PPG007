@@ -13,10 +13,10 @@
     <a href="https://github.com/PPG007/protoc-gen.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=protoc-gen&theme=algolia&show_owner=true" />
     </a>
-    <a href="https://github.com/PPG007/todo-reminder.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=todo-reminder&theme=algolia&show_owner=true" />
+    <a href="https://github.com/PPG007/otp.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=otp&theme=algolia&show_owner=true" />
     </a>
-    <a href="https://github.com/PPG007/todo-reminder-uniapp.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=todo-reminder-uniapp&theme=algolia&show_owner=true" />
+    <a href="https://github.com/PPG007/copier.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=copier&theme=algolia&show_owner=true" />
     </a>
 </div>
