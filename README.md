@@ -19,4 +19,7 @@
     <a href="https://github.com/PPG007/copier.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=copier&theme=algolia&show_owner=true" />
     </a>
+    <a href="https://github.com/PPG007/gotp.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PPG007&repo=gotp&theme=algolia&show_owner=true" />
+    </a>
 </div>
