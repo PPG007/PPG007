@@ -1,6 +1,7 @@
 # PPG007
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
 
 <div>
